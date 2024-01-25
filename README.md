@@ -1,4 +1,5 @@
 # Prediction-des-ventes-liees-au-marketing
+![Image from](https://github.com/MarvinLaurac/-EN-COURS-Prediction-des-ventes-liees-au-marketing/assets/152433361/9e7cc217-7c28-4151-a93a-b0c13f8b7777)
 
 # INTRODUCTION
 
