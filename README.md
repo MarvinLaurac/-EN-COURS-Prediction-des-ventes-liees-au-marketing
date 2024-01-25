@@ -2,6 +2,7 @@
 ![Image from](https://github.com/MarvinLaurac/-EN-COURS-Prediction-des-ventes-liees-au-marketing/assets/152433361/9e7cc217-7c28-4151-a93a-b0c13f8b7777)
 
 # INTRODUCTION
+![Image from (1)](https://github.com/MarvinLaurac/-EN-COURS-Prediction-des-ventes-liees-au-marketing/assets/152433361/f31adc3f-cf06-4fa6-9f55-d23d32b9e528)
 
 # LOGICIEL PRIVILÉGIÉ
 
