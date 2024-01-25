@@ -9,3 +9,4 @@
 # DATAFRAME INFO
 
 # LICENCE
+kaggle (Database Contents License (DbCL) v1.0)
