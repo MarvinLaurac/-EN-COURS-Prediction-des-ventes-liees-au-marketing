@@ -15,7 +15,6 @@ J'ai utiliser Python avec ces bibliothèques comme Pandas pour l'analyse de donn
 # CONTEXTE DU SUJET
 
 # DATAFRAME INFO
-
 <img width="627" alt="Data info marketing " src="https://github.com/MarvinLaurac/-EN-COURS-Prediction-des-ventes-liees-au-marketing/assets/152433361/c5954381-4295-4bf8-8478-ea39df3beea5">
 
 # LICENCE
