@@ -2,7 +2,7 @@
 ![Image from](https://github.com/MarvinLaurac/-EN-COURS-Prediction-des-ventes-liees-au-marketing/assets/152433361/9e7cc217-7c28-4151-a93a-b0c13f8b7777)
 
 # INTRODUCTION
-Face à une compétitivité des marchés par une guerre de la publicité, qu'elle soit papier ou digitale, il est important d'identifier la source des ventes qui contribue à la hausse du chiffre d'affaires afin d'optimiser les campagnes publicitaires.
+Face à une compétitivité des marchés par une guerre de la publicité, qu'elle soit papier ou digitale, il est important d'identifier la source des ventes qui contribue à la hausse du chiffre d'affaires afin d'optimiser les campagnes publicitaires. 
 
 Ce projet a pour but de créer un modèle qui peut aider à la détection des tendances afin que le pôle marketing ait plus de recul sur la fiabilité de leurs campagnes, avec des données d’analyse et d'apprentissage automatique.
 
