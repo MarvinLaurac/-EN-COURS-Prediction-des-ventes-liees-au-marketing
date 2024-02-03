@@ -14,6 +14,7 @@ Ce projet a pour but de créer un modèle qui peut aider à la détection des te
 
 # CONTEXTE DU SUJET
 
+
 # DATAFRAME INFO
 <img width="627" alt="Data info marketing " src="https://github.com/MarvinLaurac/-EN-COURS-Prediction-des-ventes-liees-au-marketing/assets/152433361/c5954381-4295-4bf8-8478-ea39df3beea5">
 
