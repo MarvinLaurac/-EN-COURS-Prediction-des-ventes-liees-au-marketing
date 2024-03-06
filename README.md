@@ -15,7 +15,7 @@ d'apprentissage automatique.
 
 # LOGICIEL PRIVILÉGIÉ
 - Python
-J'ai utilisé Python avec ces bibliothèques, comme Pandas pour l'analyse de données, Scikit-Learn pour le
+J'ai utilisé Python avec ses bibliothèques, comme Pandas pour l'analyse de données, Scikit-Learn pour le
 machine learning, et Matplotlib pour la visualisation.
 
 # CONTEXTE DU SUJET
